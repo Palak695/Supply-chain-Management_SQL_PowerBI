@@ -4,11 +4,11 @@
 2.MySQL (Tested on SQL Server syntax)
 3.PowerBI
 
-##Dataset: 
+## Dataset: 
 supply_chain_data.csv converted into SQL table
 Table name used: supply_chain_data
 
-Key Business Questions & Queries :
+## Key Business Questions & Queries :
 1. Which product types generate the highest total revenue?
 📌 Insight: Identify which product categories are the most profitable.
 

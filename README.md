@@ -45,7 +45,8 @@ Table name used: supply_chain_data
 📌 Insight: Identify regional demand and optimize supply chain distribution.
 
 
-![image](https://github.com/user-attachments/assets/e40972f1-eb0c-41ce-8243-3afa76d75919)
+![image](https://github.com/user-attachments/assets/b557a6f3-760c-4fd6-9b37-e8a179ff6666)
+
 
 
 
